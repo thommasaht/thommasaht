@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thom! <br/>Software Developer, Web Designer, and Aspiring Professional </h1>
+<h1>Hi, I'm Thom! <br/>Software Developer, Web Designer, and Avid Creator </h1>
 
 <h2>🌐 Website Portfolio:</h2>
 
