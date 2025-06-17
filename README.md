@@ -2,9 +2,9 @@
 
 <h2>Website Portfolio:</h2>
 
-<a href="https://thommasahtguitar.com">Thommasaht Nhouyvanisvong (Guitarist)</a>
+<a href="https://thommasahtguitar.com" target="_blank">Thommasaht Nhouyvanisvong (Guitarist)</a>
 
-<a href="https://mysimplythai.com">Simply Thai</a>
+<a href="https://mysimplythai.com" target="_blank">Simply Thai</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
