@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thom! <br/>Software Developer, Web Designer, and Aspiring Professional </h1>
 
-<h2>Website Portfolio</h2>
+<h2>Website Portfolio:</h2>
 
 <a href="https://thommasahtguitar.com">Thommasaht Nhouyvanisvong (Guitarist)</a>
 
