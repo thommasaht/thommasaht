@@ -1,4 +1,10 @@
-<h1>Hi, I'm Thom! <br/><a href="https://github.com/thommasaht">Software Developer</a> and <a href="https://www.linkedin.com/in/thom-nhouyvanisvong/">Aspiring Professional</a>
+<h1>Hi, I'm Thom! <br/>Software Developer, Web Designer, and Aspiring Professional </h1>
+
+<h2>Website Portfolio</h2>
+
+<a href="https://thommasahtguitar.com>Thommasaht Nhouyvanisvong (Guitarist)</a>
+
+<a href="https://mysimplythai.com>Simply Thai</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
